@@ -6,4 +6,4 @@ Hello! This project was created to demonstrate proficiency with HTML and CSS. So
 - Use of bootstrap
 - Multiple pages
 
-Thanks for taking a look!
+It's nothing crazy, but it's my own work. Thanks for taking a look!
